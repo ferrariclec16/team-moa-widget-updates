@@ -1,5 +1,5 @@
 {
-  "version": "0.1.22",
-  "url": "https://github.com/ferrariclec16/team-moa-widget-updates/releases/download/v0.1.22/Team-MOA-win.zip",
-  "notes": "업데이트 확인 요청 오류 수정."
+  "version": "0.1.23",
+  "url": "https://github.com/ferrariclec16/team-moa-widget-updates/releases/download/v0.1.23/Team-MOA-win.zip",
+  "notes": "대시보드 정렬과 업데이트 안정성을 개선했습니다."
 }
