@@ -22,7 +22,7 @@ Team-MOA-win.zip
    - `resources/app/package.json`의 `version`
 2. `Team-MOA-win` 폴더를 `Team-MOA-win.zip`으로 압축합니다.
 3. GitHub에서 새 Release를 만듭니다.
-   - Tag: `v0.1.21`
+   - Tag: `v0.1.22`
    - Asset: `Team-MOA-win.zip`
 4. `updates/manifest.json`을 새 버전에 맞게 수정합니다.
 5. 이 저장소에는 `updates/manifest.json`만 commit/push합니다.
@@ -31,9 +31,9 @@ Team-MOA-win.zip
 
 ```json
 {
-  "version": "0.1.21",
-  "url": "https://github.com/ferrariclec16/team-moa-widget-updates/releases/download/v0.1.21/Team-MOA-win.zip",
-  "notes": "상단 직원 실적 바 추가, adminmoa 실적 연동, Google Apps Script 백엔드 제거, 업데이트 방식 개선."
+  "version": "0.1.22",
+  "url": "https://github.com/ferrariclec16/team-moa-widget-updates/releases/download/v0.1.22/Team-MOA-win.zip",
+  "notes": "업데이트 확인 요청 오류 수정."
 }
 ```
 
