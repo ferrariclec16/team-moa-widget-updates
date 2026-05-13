@@ -1,5 +1,5 @@
 {
   "version": "0.1.21",
-  "url": "https://github.com/moalabcomp/team-moa-widget-updates/releases/download/v0.1.21/Team-MOA-win.zip",
+  "url": "https://github.com/ferrariclec16/team-moa-widget-updates/releases/download/v0.1.21/Team-MOA-win.zip",
   "notes": "상단 직원 실적 바 추가, adminmoa 실적 연동, Google Apps Script 백엔드 제거, 업데이트 방식 개선."
 }
