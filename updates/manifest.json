@@ -1,5 +1,5 @@
 {
-  "version": "0.1.27",
-  "url": "https://github.com/ferrariclec16/team-moa-widget-updates/releases/download/v0.1.27/Team-MOA-win.zip",
-  "notes": "상단 실적 바를 더 컴팩트하게 정리하고 실적 바 토글 동작을 수정했습니다."
+  "version": "0.1.28",
+  "url": "https://github.com/ferrariclec16/team-moa-widget-updates/releases/download/v0.1.28/Team-MOA-win.zip",
+  "notes": "업데이트 실행기를 앱 종료와 분리해 재시작 안정성을 개선했습니다."
 }
